@@ -18,4 +18,4 @@ Hi 👋 I'm Tanishka Joshi
 - No-code / low-code automation
 - Practical AI use-cases
 
-📫 Connect with me on LinkedIn
+
